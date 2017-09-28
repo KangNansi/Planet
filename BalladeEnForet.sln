@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalladeEnForet", "BalladeEnForet.csproj", "{F6FF1D0C-B114-E613-8FCD-C5968BC47B28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalladeEnForet.Plugins", "BalladeEnForet.Plugins.csproj", "{4ED1462B-A291-6A79-6B34-21371C933C62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalladeEnForet.Editor", "BalladeEnForet.Editor.csproj", "{45FB176D-15E1-33B6-E05B-A07C4C5CD46B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6FF1D0C-B114-E613-8FCD-C5968BC47B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FF1D0C-B114-E613-8FCD-C5968BC47B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FF1D0C-B114-E613-8FCD-C5968BC47B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FF1D0C-B114-E613-8FCD-C5968BC47B28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED1462B-A291-6A79-6B34-21371C933C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED1462B-A291-6A79-6B34-21371C933C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED1462B-A291-6A79-6B34-21371C933C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED1462B-A291-6A79-6B34-21371C933C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FB176D-15E1-33B6-E05B-A07C4C5CD46B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FB176D-15E1-33B6-E05B-A07C4C5CD46B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FB176D-15E1-33B6-E05B-A07C4C5CD46B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FB176D-15E1-33B6-E05B-A07C4C5CD46B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

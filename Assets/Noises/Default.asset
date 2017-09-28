@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06415441de43c454c862fa5eea6c24b9, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  noises:
+  - frequency: 1
+    strength: 1
+  - frequency: 5
+    strength: 0.8888889
+  - frequency: 7
+    strength: 0.7777778
+  - frequency: 11
+    strength: 0.6666667
+  - frequency: 14
+    strength: 0.5555556
+  - frequency: 17
+    strength: 0.44444445
+  - frequency: 19
+    strength: 0.33333334
+  - frequency: 22
+    strength: 0.22222222
+  - frequency: 26
+    strength: 0.11111111
+  grain: 0.1581877
+  overallStrength: 1
